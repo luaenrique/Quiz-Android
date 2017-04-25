@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Quiz Trab</string>
+    <string name="perg1">Qual a palavra chave utilizada para herança em Java?</string>
+    <string name="resp1perg1">Herdate</string>
+    <string name="resp2perg1">Extends</string>
+    <string name="resp3perg1">onCreate</string>
+    <string name="resp4perg1">isEmpty</string>
+    <string name="resp5perg1">setError</string>
+
+    <string name="perg2">Qual o comando utilizado para verificar se um campo está vazio em Android?</string>
+    <string name="resp1perg2">SetErrorifIsNull</string>
+    <string name="resp2perg2">Implements</string>
+    <string name="resp3perg2">isEmpty</string>
+    <string name="resp4perg2">Trim</string>
+    <string name="resp5perg2">BundleSavedInstance</string>
+
+
+    <string name="perg3">O que significa ADB?</string>
+    <string name="resp1perg3">Android Debug Block</string>
+    <string name="resp2perg3">Android Drawable Base</string>
+    <string name="resp3perg3">Android Development Back-end</string>
+    <string name="resp4perg3">Android Driver Booster</string>
+    <string name="resp5perg3">Android Debug Bridge</string>
+
+    <string name="perg4">O que significa AVD?</string>
+    <string name="resp1perg4">Android Virtual Drivers</string>
+    <string name="resp2perg4">Android Video Decode</string>
+    <string name="resp3perg4">Android Video Codec</string>
+    <string name="resp4perg4">Android Virtual Draw</string>
+    <string name="resp5perg4">Android Virtual Device</string>
+
+    <string name="perg5">O que significa apk?</string>
+    <string name="resp1perg5">Android Package</string>
+    <string name="resp2perg5">Android Post Kollector</string>
+    <string name="resp3perg5">Android Poke Kit</string>
+    <string name="resp4perg5">Android Paste KitKat</string>
+    <string name="resp5perg5">Android PomKei</string>
+
+    <string name="finalizar">Enviar</string>
+</resources>
